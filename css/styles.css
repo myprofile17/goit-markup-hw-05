@@ -291,9 +291,9 @@ body {
 	bottom: 0;
 	left: 0;
 	width: 100%;
-	
+
 	background: rgba(47, 48, 58, 0.8);
-	color:var(--background-color);
+	color: var(--background-color);
 	padding: 27px 0;
 
 	font-family: "Roboto";
@@ -303,7 +303,6 @@ body {
 	text-align: center;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
-
 }
 
 .work-list {
@@ -525,7 +524,6 @@ body {
 
 .footer-background {
 	background-color: var(--footer-bg-color);
-
 }
 
 .footer-flex {
@@ -536,7 +534,7 @@ body {
 .footer-nav {
 	margin-right: 70px;
 	padding-top: 60px;
-}   
+}
 
 .footer-logo {
 	color: var(--secondary-text-color);
